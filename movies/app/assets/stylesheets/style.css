@@ -1,0 +1,10 @@
+.container {
+	padding: 5px;
+	height: 780px;
+	position: center;
+	text-align: center;
+	background-color: #eee;
+}
+body {
+	background-color: #eee;
+}
